@@ -1,4 +1,4 @@
-# Correcttion Rush-02
+# Correction Rush-02
 
 etape 1:
 
