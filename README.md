@@ -23,3 +23,5 @@ NOTA:
 
 - les tests ko ne sont pas un motif suffisant pour compter faux
 - il faut reinterpreter les solutions en fonction des bonus choisi
+
+https://github.com/user-attachments/assets/8147415b-bdc7-46ac-b661-77ad433e268e
