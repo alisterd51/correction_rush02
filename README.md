@@ -23,5 +23,6 @@ NOTA:
 
 - les tests ko ne sont pas un motif suffisant pour compter faux
 - il faut reinterpreter les solutions en fonction des bonus choisi
+- `testok` est un binaire compiler statiquement, s'il ne fonctionne pas sur votre distro, vous devrez recompiler votre rush02 de reference et le nommer testok
 
 https://github.com/user-attachments/assets/8147415b-bdc7-46ac-b661-77ad433e268e
